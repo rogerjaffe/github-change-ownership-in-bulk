@@ -1,6 +1,6 @@
 {
   "name": "github-change-ownership-in-bulk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Change ownership of many repos quickly.",
   "main": "listOrgRepos.js",
   "scripts": {
@@ -11,7 +11,9 @@
     "url": "git+https://github.com/rogerjaffe/github-change-ownership-in-bulk.git"
   },
   "keywords": [
-    "github"
+    "github",
+    "transfer",
+    "transfer-ownership"
   ],
   "author": "Roger Jaffe",
   "license": "MIT",
